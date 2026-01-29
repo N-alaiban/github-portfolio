@@ -12,7 +12,8 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 3.  **The Impact:** Users could not access Facebook or any associated services. Internal systems were also affected, so employees were locked out of offices and communications platforms. The outage took hours to resolve because Facebook’s systems are centralized and internal tools were also inaccessible.
  
 
-Screen shor https://github.com/N-alaiban/github-portfolio/blob/main/terminal.png 
+[My Terminal Success](https://github.com/N-alaiban/github-portfolio/blob/main/terminal.png)
+
 
 
 ## 🤝 GitHub Network
