@@ -6,13 +6,12 @@
 * [@Fohramatu](https://github.com/Fohramatu)
 * [@LinCode83](https://github.com/LinCode83)
 
-Forked Repositories
+### Forked Repositories
 
-CyberSecurity-Tools by @amark
+1. **CyberSecurity-Tools** by [@amark](https://github.com/amark)
+   - Description: Open-source cybersecurity tools and utilities.
+   - Relevance: Useful for learning cybersecurity concepts and tools related to IT-520.
 
-Description: Open-source cybersecurity tools and utilities.
-Relevance: Useful for learning cybersecurity concepts and tools related to IT-520.
-Python by @TheAlgorithms
-
-Description: A large collection of Python algorithms for learning and practice.
-Relevance: Helps improve programming skills and understanding of algorithms used in IT and security.
+2. **Python** by [@TheAlgorithms](https://github.com/TheAlgorithms)
+   - Description: A large collection of Python algorithms for learning and practice.
+   - Relevance: Helps improve programming skills and understanding of algorithms used in IT and security.
